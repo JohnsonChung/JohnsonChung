@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 150" width="49%">
+  <defs>
+    <pattern id="c1-hazard" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
+      <rect width="6" height="12" fill="#FFE600"/>
+      <rect x="6" width="6" height="12" fill="#141517"/>
+    </pattern>
+  </defs>
+  <rect width="580" height="150" fill="#141517" stroke="#363A45" stroke-width="2"/>
+  <rect x="0" y="0" width="6" height="150" fill="#FFE600"/>
+  <rect x="480" y="0" width="100" height="6" fill="url(#c1-hazard)"/>
+  <!-- Original ZipPla Mini Icon -->
+  <g transform="translate(22, 22) scale(0.16)">
+    <rect x="0" y="0" width="256" height="256" fill="#FFA07A"/>
+    <rect x="27" y="27" width="202" height="202" fill="#FFFFFF"/>
+    <polygon points="27,80 148,80 27,176" fill="#70AD47"/>
+    <polygon points="229,80 229,176 108,176" fill="#4472C4"/>
+  </g>
+  <text x="76" y="38" fill="#FFE600" font-family="Consolas, monospace" font-size="12" font-weight="bold" letter-spacing="2">SYS.01 // DESKTOP ARCHIVE ENGINE</text>
+  <text x="76" y="62" fill="#F0F2F5" font-family="'Segoe UI', sans-serif" font-size="22" font-weight="900" letter-spacing="1">ZipPla-Reforge</text>
+  <text x="22" y="96" fill="#ECEBE6" font-family="'Microsoft JhengHei', 'Segoe UI', sans-serif" font-size="14">免解壓直讀、毫秒級瞬開的 Windows 漫畫與壓縮書庫閱讀器</text>
+  <rect x="22" y="114" width="72" height="20" fill="#FFE600"/>
+  <text x="32" y="128" fill="#141517" font-family="Consolas, monospace" font-size="11" font-weight="bold">RUST CORE</text>
+  <rect x="102" y="114" width="76" height="20" fill="#25282C" stroke="#FFE600" stroke-width="1"/>
+  <text x="112" y="128" fill="#FFE600" font-family="Consolas, monospace" font-size="11" font-weight="bold">.NET 8 LTS</text>
+  <rect x="186" y="114" width="84" height="20" fill="#25282C"/>
+  <text x="196" y="128" fill="#8B9BB4" font-family="Consolas, monospace" font-size="11">ZERO-COPY</text>
+  <!-- Endfield Arrow -->
+  <g transform="translate(542, 114) scale(0.85)" fill="#FFE600">
+    <path fill-rule="evenodd" d="M2.673,22.418 L2.673,19.398 L17.146,19.398 L0.740,2.992 L2.875,0.857 L19.280,17.263 L19.280,2.791 L22.300,2.791 L22.300,22.418 L2.673,22.418 Z"/>
+  </g>
+</svg>
