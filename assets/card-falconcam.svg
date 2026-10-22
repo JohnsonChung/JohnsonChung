@@ -12,15 +12,15 @@
   <g transform="translate(22, 20) scale(0.85)" fill="#ECEBE6">
     <path fill-rule="evenodd" d="M23.312,44.301 L18.497,49.105 L12.435,43.800 L17.195,43.800 L17.195,41.198 L17.195,38.997 L12.435,38.997 L17.542,34.527 L18.497,33.692 L18.757,33.952 L19.966,35.157 L20.654,35.844 L23.312,38.496 L25.259,38.496 L35.436,38.496 L36.242,38.496 L36.948,38.496 L37.859,38.496 L40.277,38.496 L40.791,38.496 L40.791,44.301 L23.312,44.301 ZM36.948,36.085 L36.242,36.085 L24.317,36.085 L20.214,31.986 L19.966,31.739 L19.966,23.492 L20.306,23.294 L30.347,17.513 L36.948,21.315 L40.729,23.492 L40.729,36.085 L39.626,36.085 L36.948,36.085 ZM30.347,24.808 C27.763,24.808 25.668,26.898 25.668,29.470 C25.668,32.048 27.763,34.137 30.347,34.137 C32.926,34.137 35.021,32.048 35.021,29.470 C35.021,26.898 32.926,24.808 30.347,24.808 ZM30.347,14.731 L29.139,15.424 L18.757,21.402 L17.542,22.101 L17.542,31.318 L16.904,31.875 L10.842,37.179 L6.249,41.198 L0.002,41.198 L0.002,0.895 L27.651,0.895 C31.283,4.518 33.316,6.546 36.948,10.169 L36.948,18.527 L31.556,15.424 L30.347,14.731 Z"/>
   </g>
-  <text x="76" y="38" fill="#8B9BB4" font-family="Consolas, monospace" font-size="12" font-weight="bold" letter-spacing="2">SYS.04 // 3D PIPELINE &amp; MCP</text>
-  <text x="76" y="62" fill="#F0F2F5" font-family="'Segoe UI', sans-serif" font-size="22" font-weight="900" letter-spacing="1">Blender-MCP &amp; Falconcam</text>
-  <text x="22" y="96" fill="#ECEBE6" font-family="'Microsoft JhengHei', 'Segoe UI', sans-serif" font-size="14">AI 驅動之 Blender 攝影機控制插件與 Antigravity MCP 工具鏈</text>
+  <text x="76" y="38" fill="#8B9BB4" font-family="Consolas, monospace" font-size="12" font-weight="bold" letter-spacing="2">PUB.04 // BLENDER × AI WORKFLOW</text>
+  <text x="76" y="62" fill="#F0F2F5" font-family="'Segoe UI', sans-serif" font-size="22" font-weight="900" letter-spacing="1">antigravity-blender-mcp</text>
+  <text x="22" y="96" fill="#ECEBE6" font-family="'Microsoft JhengHei', 'Segoe UI', sans-serif" font-size="14">Blender 3D 與 AI Agent (MCP) 協作工具鏈整理與場景操作實驗</text>
   <rect x="22" y="114" width="68" height="20" fill="#ECEBE6"/>
   <text x="32" y="128" fill="#141517" font-family="Consolas, monospace" font-size="11" font-weight="bold">BLENDER</text>
   <rect x="98" y="114" width="68" height="20" fill="#25282C" stroke="#ECEBE6" stroke-width="1"/>
-  <text x="108" y="128" fill="#ECEBE6" font-family="Consolas, monospace" font-size="11" font-weight="bold">PYTHON</text>
+  <text x="108" y="128" fill="#ECEBE6" font-family="Consolas, monospace" font-size="11" font-weight="bold">AI / LLM</text>
   <rect x="174" y="114" width="76" height="20" fill="#25282C"/>
-  <text x="184" y="128" fill="#8B9BB4" font-family="Consolas, monospace" font-size="11">AI AGENT</text>
+  <text x="184" y="128" fill="#8B9BB4" font-family="Consolas, monospace" font-size="11">3D TOOLS</text>
   <g transform="translate(542, 114) scale(0.85)" fill="#ECEBE6">
     <path fill-rule="evenodd" d="M2.673,22.418 L2.673,19.398 L17.146,19.398 L0.740,2.992 L2.875,0.857 L19.280,17.263 L19.280,2.791 L22.300,2.791 L22.300,22.418 L2.673,22.418 Z"/>
   </g>
